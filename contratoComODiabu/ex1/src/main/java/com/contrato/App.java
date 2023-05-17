@@ -47,6 +47,8 @@ public class App {
 
         aux = lst.favoritos();
 
+        System.out.println(aux);
+
         lst.remove(liv2);
         lst.remove(liv1);
         lst.remove(liv5);
